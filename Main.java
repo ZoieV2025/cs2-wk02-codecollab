@@ -14,7 +14,7 @@ public class Main {
     System.out.println("Grade: " + grade);
     System.out.println("Passed: " + isPassed);
 
-    int birthYear = 2023 - age;
+    int birthYear = 2024 - age; // changed to 2024 so more accurate
     System.out.println("Birth Year: " + birthYear);
 
 		System.out.println("Cool, now let's get lunch!");
@@ -38,3 +38,7 @@ public class Main {
 		
   }
 }
+//1. connect output to print statements to identify secitons of code - talk avbout cause and effect of code 
+//- print on whatever line corresponds to that output
+//2. focus on a group - chunked - these four actions accomplish ______ (use vocab)
+// pick smth that someone has not talked abt , if ppl. chose everyhting can focus on something in one detail or go to unit notes and pick smth out that was not discussed
